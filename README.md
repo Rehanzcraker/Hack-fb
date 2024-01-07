@@ -7,4 +7,4 @@ cd Hack-fb
 
 ls
 
-python 
+python HANZ-PROJEC.py
